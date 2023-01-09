@@ -1,0 +1,7 @@
+ @import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap'); 
+body{
+    font-family: 'Crete Round', serif;
+}
+hr{ border-color: #FFE15D;
+    border-style: dotted none none none;
+    border-width: 5px;}
